@@ -2,6 +2,8 @@
 
 An intelligent AI agent for baby care built with React and Vite. MomOps continuously monitors your baby's patterns and proactively recommends interventions for sleep, feeding, and development.
 
+**🚀 Live Demo:** [https://momops.netlify.app/](https://momops.netlify.app/)
+
 ## 🤖 AI Agent Capabilities
 
 - **🔍 Autonomous Monitoring** - Continuously analyzes patterns in the background
